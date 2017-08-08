@@ -1,0 +1,13 @@
+<svg id="Map_Main" data-name="Map Main" xmlns="http://www.w3.org/2000/svg" width="1780" height="803" viewBox="0 0 1780 803">
+  <title>test</title>
+    <g id="foo">
+        <circle cx="534" cy="198" r="3"/>
+    </g>
+    <g>
+    	<circle cx="183" cy="198" r="3"/>
+    </g>
+    <g id="bar">
+        <circle cx="165" cy="189" r="3" id="test1" />
+        <circle cx="156" cy="189" r="3" id="test2" />
+    </g>
+</svg>

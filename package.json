@@ -1,0 +1,26 @@
+{
+  "name": "svg-coordinates",
+  "version": "1.0.0",
+  "description": "Creates a JSON object from all SVG layer coordinates",
+  "main": "app.js",
+  "scripts": {
+    "app": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Flamov@github.com/Flamov/svg-coordinates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flamov/svg-coordinates/issues"
+  },
+  "homepage": "https://github.com/Flamov/svg-coordinates#readme",
+  "devDependencies": {
+    "jsdom": "^11.1.0"
+  },
+  "dependencies": {
+    "jsonfile": "^3.0.1"
+  }
+}
